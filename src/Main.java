@@ -8,6 +8,13 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+var. (dog+4);
+var. (cat+4);
+    var. (paper+4);
+        System.out.println(dog);
+        System.out.println(cat);
+        System.out.println(paper);
+
 
     
     
